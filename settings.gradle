@@ -1,0 +1,2 @@
+rootProject.name = 'Kongsplay'
+include ':app'
